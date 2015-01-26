@@ -1,0 +1,50 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+    <groupId>com.guidewire.cc</groupId>
+    <artifactId>cc-parent</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <relativePath>../cc-parent/pom.xml</relativePath>
+  </parent>
+
+  <groupId>com.guidewire.cc</groupId>
+  <artifactId>cc-gunit</artifactId>
+  <version>1.0-SNAPSHOT</version>
+
+  <name>cc-gunit</name>
+
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-javadoc-plugin</artifactId>
+      </plugin>
+    </plugins>
+  </build>
+
+  <dependencies>
+    <dependency>
+      <groupId>com.guidewire.cc</groupId>
+      <artifactId>cc</artifactId>
+      <version>1.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>com.guidewire.pl</groupId>
+      <artifactId>pl-gunit</artifactId>
+      <version>1.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>gw.managed</groupId>
+      <artifactId>automaton</artifactId>
+      <version>1.11</version>
+    </dependency>
+    <dependency>
+      <groupId>gw.managed</groupId>
+      <artifactId>xeger</artifactId>
+      <version>1.0</version>
+    </dependency>
+  </dependencies>
+
+</project>
