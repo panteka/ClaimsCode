@@ -1,0 +1,15 @@
+config.metro.Metro
+config.osgi.framework
+config.extensions.extensions
+config.metadata.metadata
+config.iso.ISO
+config.metadata.platform_metadata
+config.fnolmapper.acord.mapper
+config.solr.dataimport
+config.phone.nanpa
+config.plugin.ExternalMappings
+config.locale.en_US.typelist
+config.osgi.platform_framework
+gw.lang.SystemProperties
+gw.plugin.integration.utils.AddressBookMessages
+config.logging.logging

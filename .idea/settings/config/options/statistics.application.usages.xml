@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="language-level">
+      <project id="ClaimCenter" values="JDK_1_7" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="ClaimCenter" values="Application" />
+    </group>
+    <group name="module type">
+      <project id="ClaimCenter" values="JAVA_MODULE" />
+    </group>
+    <group name="file-type">
+      <project id="ClaimCenter" values="Properties,Typelist TIX,UNKNOWN,Typelist TTX,Entity,XML,Native,HTML,Entity Name,ARCHIVE,SQL files,Images,GosuCode,WSC,RPCE,IDEA_MODULE,Plugin,Typelist TTI,PLAIN_TEXT,PCF" />
+    </group>
+  </component>
+</application>
+

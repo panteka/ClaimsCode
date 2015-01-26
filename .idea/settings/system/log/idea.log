@@ -1,0 +1,220 @@
+2015-01-14 12:17:45,154 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2015-01-14 12:17:45,170 [     16]   INFO -        #com.intellij.idea.Main - IDE: Guidewire Studio (build #Studio-8.0, 08 May 2014 00:00) 
+2015-01-14 12:17:45,170 [     16]   INFO -        #com.intellij.idea.Main - OS: Windows 7 (6.1) 
+2015-01-14 12:17:45,170 [     16]   INFO -        #com.intellij.idea.Main - JRE: 1.7.0_71-b14 (Oracle Corporation) 
+2015-01-14 12:17:45,170 [     16]   INFO -        #com.intellij.idea.Main - JVM: 24.71-b01 (Oracle Corporation) 
+2015-01-14 12:17:45,170 [     16]   INFO -        #com.intellij.idea.Main - JVM Args: -Xbootclasspath/a:../lib/boot.jar -XX:ReservedCodeCacheSize=64m -Dstudio.sdkroot=C:\Guidewire\ClaimCenter -Didea.plugins.compatible.build=IC-129.713 -Dfile.encoding=UTF-8 -Dide.tooltip.dismissDelay=60000 -ea -Didea.properties.file=C:/Guidewire/ClaimCenter/.idea/settings/idea.properties -Didea.platform.prefix=Studio -Xms2000m -Xmx4000m -XX:MaxPermSize=500m -Dant.file=C:\Guidewire\ClaimCenter\modules\ant\build.xml -Dant.project.invoked-targets=studio -Dant.file.type=file -Dant.file.Guidewire Ant environment initialization=C:\Guidewire\ClaimCenter\modules\ant\init.xml -Dant.file.Guidewire product configuration environment=C:\Guidewire\ClaimCenter\modules\ant\build.xml -Dant.project.default-target=help -Dant.file.type.Guidewire product configuration environment=file -Dant.file.type.Guidewire Ant environment initialization=file -Dant.project.name=Guidewire product configuration environment 
+2015-01-14 12:17:45,232 [     78]   INFO -        #com.intellij.idea.Main - JNA library loaded (64-bit) in 62 ms 
+2015-01-14 12:17:45,279 [    125]   INFO -        #com.intellij.idea.Main - Snappy library loaded (1.0.4) in 47 ms 
+2015-01-14 12:17:45,294 [    140]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2015-01-14 12:17:45,294 [    140]   INFO -        #com.intellij.idea.Main - Using "FocusKiller" library to prevent focus stealing. 
+2015-01-14 12:17:46,917 [   1763]   INFO - llij.ide.plugins.PluginManager - 37 plugins initialized in 1389 ms 
+2015-01-14 12:17:46,917 [   1763]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Ant Support (1.0), Copyright (8.1), GenerateToString (5.0), Git Integration (8.1), GitHub, IDEA CORE, Inspection Gadgets (1.0), Intention Power Pack (1.0), JUnit (1.0), JavaFX (1.0), Maven Integration, Properties Support, Subversion Integration (1.1) 
+2015-01-14 12:17:46,917 [   1763]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: GUnit (1.0-SNAPSHOT), Gosu (4.0-SNAPSHOT), Guidewire CC Studio (1.0), Guidewire Internal API Inspector (1.0.0), Guidewire Studio (1.0-SNAPSHOT), Guidewire Studio (Entity Codegen) (8.20.3) 
+2015-01-14 12:17:46,917 [   1763]   INFO - llij.ide.plugins.PluginManager - Disabled plugins: Android Designer, Android Support (10.0), Byte Code Viewer (0.1), CVS Integration (11), Commander (1.0.0), Eclipse Integration (3.0), Gradle, Groovy (9.0), I18n for Java, IntelliLang (8.0), Plugin DevKit (1.0), Task Management (1.0), TestNG-J (8.0), UI Designer, UI Designer (Core), XPathView + XSLT Support (4), XSLT-Debugger (1.4), hg4idea (10.0) 
+2015-01-14 12:17:48,307 [   3153]   INFO - ellij.vfs.persistent.FSRecords - Marking VFS as corrupted 
+2015-01-14 12:17:48,307 [   3153]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=200; buffer=10; max=3707240448 
+2015-01-14 12:17:48,401 [   3247]   INFO - api.vfs.impl.local.FileWatcher - Starting file watcher: C:\Guidewire\ClaimCenter\idea\bin\fsnotifier.exe 
+2015-01-14 12:17:48,416 [   3262]   INFO - api.vfs.impl.local.FileWatcher - Native file watcher is operational. 
+2015-01-14 12:17:48,478 [   3324]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/project.default.xml file is null 
+2015-01-14 12:17:48,597 [   3443]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/filetypes.xml file is null 
+2015-01-14 12:17:48,738 [   3584]   INFO - .history.utils.LocalHistoryLog - local history version mismatch (was: 0, expected: 5), rebuilding... 
+2015-01-14 12:17:48,738 [   3584]   INFO - .history.utils.LocalHistoryLog - FS has been rebuild, rebuilding local history... 
+2015-01-14 12:17:48,769 [   3615]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/ui.lnf.xml file is null 
+2015-01-14 12:17:48,769 [   3615]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/options.xml file is null 
+2015-01-14 12:17:48,800 [   3646]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/notifications.xml file is null 
+2015-01-14 12:17:48,816 [   3662]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/usage.statistics.xml file is null 
+2015-01-14 12:17:48,816 [   3662]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/statistics.application.usages.xml file is null 
+2015-01-14 12:17:48,878 [   3724]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/keymap.xml file is null 
+2015-01-14 12:17:49,096 [   3942]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/window.manager.xml file is null 
+2015-01-14 12:17:49,112 [   3958]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/ide.general.xml file is null 
+2015-01-14 12:17:50,443 [   5289]  ERROR - ij.components.ComponentManager - java.io.FileNotFoundException: C:\Guidewire\ClaimCenter\.idea\settings\system\index\javafx.custom.component\javafx.custom.component.ver (Access is denied) 
+java.lang.RuntimeException: java.io.FileNotFoundException: C:\Guidewire\ClaimCenter\.idea\settings\system\index\javafx.custom.component\javafx.custom.component.ver (Access is denied)
+	at com.intellij.util.indexing.FileBasedIndexImpl.initExtensions(FileBasedIndexImpl.java:324)
+	at com.intellij.util.indexing.FileBasedIndexImpl.initComponent(FileBasedIndexImpl.java:351)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.initComponent(ComponentManagerImpl.java:217)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.access$1300(ComponentManagerImpl.java:55)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl$ComponentConfigComponentAdapter$1.getComponentInstance(ComponentManagerImpl.java:587)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl$ComponentConfigComponentAdapter.getComponentInstance(ComponentManagerImpl.java:630)
+	at com.intellij.util.pico.DefaultPicoContainer.getLocalInstance(DefaultPicoContainer.java:242)
+	at com.intellij.util.pico.DefaultPicoContainer.getInstance(DefaultPicoContainer.java:229)
+	at com.intellij.util.pico.DefaultPicoContainer.getComponentInstance(DefaultPicoContainer.java:211)
+	at org.picocontainer.alternatives.AbstractDelegatingMutablePicoContainer.getComponentInstance(AbstractDelegatingMutablePicoContainer.java:75)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.createComponent(ComponentManagerImpl.java:127)
+	at com.intellij.openapi.application.impl.ApplicationImpl.createComponent(ApplicationImpl.java:412)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.createComponents(ComponentManagerImpl.java:108)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.initComponents(ComponentManagerImpl.java:346)
+	at com.intellij.openapi.components.impl.stores.ApplicationStoreImpl.load(ApplicationStoreImpl.java:82)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:543)
+	at com.intellij.idea.IdeaApplication.run(IdeaApplication.java:197)
+	at com.intellij.idea.MainImpl$1.run(MainImpl.java:81)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:312)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:733)
+	at java.awt.EventQueue.access$200(EventQueue.java:103)
+	at java.awt.EventQueue$3.run(EventQueue.java:694)
+	at java.awt.EventQueue$3.run(EventQueue.java:692)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:703)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:700)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:525)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:348)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:242)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:161)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:150)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:146)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:138)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91)
+Caused by: java.io.FileNotFoundException: C:\Guidewire\ClaimCenter\.idea\settings\system\index\javafx.custom.component\javafx.custom.component.ver (Access is denied)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:221)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:171)
+	at com.intellij.util.indexing.IndexInfrastructure.rewriteVersion(IndexInfrastructure.java:79)
+	at com.intellij.util.indexing.FileBasedIndexImpl.registerIndexer(FileBasedIndexImpl.java:384)
+	at com.intellij.util.indexing.FileBasedIndexImpl.initExtensions(FileBasedIndexImpl.java:286)
+	... 34 more
+2015-01-14 12:17:50,459 [   5305]  ERROR - ij.components.ComponentManager - Guidewire Studio 8.22.0  Build #Studio-8.0 
+2015-01-14 12:17:50,459 [   5305]  ERROR - ij.components.ComponentManager - JDK: 1.7.0_71 
+2015-01-14 12:17:50,459 [   5305]  ERROR - ij.components.ComponentManager - VM: Java HotSpot(TM) 64-Bit Server VM 
+2015-01-14 12:17:50,459 [   5305]  ERROR - ij.components.ComponentManager - Vendor: Oracle Corporation 
+2015-01-14 12:17:50,459 [   5305]  ERROR - ij.components.ComponentManager - OS: Windows 7 
+2015-01-14 12:17:50,459 [   5305]  ERROR - ij.components.ComponentManager - Original exception:  
+java.io.FileNotFoundException: C:\Guidewire\ClaimCenter\.idea\settings\system\index\javafx.custom.component\javafx.custom.component.ver (Access is denied)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:221)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:171)
+	at com.intellij.util.indexing.IndexInfrastructure.rewriteVersion(IndexInfrastructure.java:79)
+	at com.intellij.util.indexing.FileBasedIndexImpl.registerIndexer(FileBasedIndexImpl.java:384)
+	at com.intellij.util.indexing.FileBasedIndexImpl.initExtensions(FileBasedIndexImpl.java:286)
+	at com.intellij.util.indexing.FileBasedIndexImpl.initComponent(FileBasedIndexImpl.java:351)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.initComponent(ComponentManagerImpl.java:217)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.access$1300(ComponentManagerImpl.java:55)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl$ComponentConfigComponentAdapter$1.getComponentInstance(ComponentManagerImpl.java:587)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl$ComponentConfigComponentAdapter.getComponentInstance(ComponentManagerImpl.java:630)
+	at com.intellij.util.pico.DefaultPicoContainer.getLocalInstance(DefaultPicoContainer.java:242)
+	at com.intellij.util.pico.DefaultPicoContainer.getInstance(DefaultPicoContainer.java:229)
+	at com.intellij.util.pico.DefaultPicoContainer.getComponentInstance(DefaultPicoContainer.java:211)
+	at org.picocontainer.alternatives.AbstractDelegatingMutablePicoContainer.getComponentInstance(AbstractDelegatingMutablePicoContainer.java:75)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.createComponent(ComponentManagerImpl.java:127)
+	at com.intellij.openapi.application.impl.ApplicationImpl.createComponent(ApplicationImpl.java:412)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.createComponents(ComponentManagerImpl.java:108)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.initComponents(ComponentManagerImpl.java:346)
+	at com.intellij.openapi.components.impl.stores.ApplicationStoreImpl.load(ApplicationStoreImpl.java:82)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:543)
+	at com.intellij.idea.IdeaApplication.run(IdeaApplication.java:197)
+	at com.intellij.idea.MainImpl$1.run(MainImpl.java:81)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:312)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:733)
+	at java.awt.EventQueue.access$200(EventQueue.java:103)
+	at java.awt.EventQueue$3.run(EventQueue.java:694)
+	at java.awt.EventQueue$3.run(EventQueue.java:692)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:703)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:700)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:525)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:348)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:242)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:161)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:150)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:146)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:138)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91)
+2015-01-14 12:17:51,005 [   5851]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/stubIndex.xml file is null 
+2015-01-14 12:17:51,020 [   5866]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/editor.xml file is null 
+2015-01-14 12:17:51,020 [   5866]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/macros.xml file is null 
+2015-01-14 12:17:51,020 [   5866]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/quicklists.xml file is null 
+2015-01-14 12:17:51,114 [   5960]   INFO - tellij.xml.Html5SchemaProvider - HTML5_SCHEMA_LOCATION = C:/Guidewire/ClaimCenter/idea/lib/idea.jar!/resources/html5-schema/html5.rnc 
+2015-01-14 12:17:51,114 [   5960]   INFO - tellij.xml.Html5SchemaProvider - XHTML5_SCHEMA_LOCATION = C:/Guidewire/ClaimCenter/idea/lib/idea.jar!/resources/html5-schema/xhtml5.rnc 
+2015-01-14 12:17:51,317 [   6163]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/colors.scheme.xml file is null 
+2015-01-14 12:17:51,317 [   6163]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/editor.codeinsight.xml file is null 
+2015-01-14 12:17:51,519 [   6365]   INFO - ellij.project.impl.ProjectImpl - 25 project components initialized in 390 ms 
+2015-01-14 12:17:51,519 [   6365]   INFO - le.impl.ModuleManagerComponent - 0 module(s) loaded in 0 ms 
+2015-01-14 12:17:51,551 [   6397]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/jdk.table.xml file is null 
+2015-01-14 12:17:51,847 [   6693]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/plainTextFiles.xml file is null 
+2015-01-14 12:17:51,987 [   6833]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/encoding.xml file is null 
+2015-01-14 12:17:52,034 [   6880]   INFO - pl.stores.ApplicationStoreImpl - 75 application components initialized in 4852 ms 
+2015-01-14 12:17:52,034 [   6880]   INFO - .intellij.idea.IdeaApplication - App initialization took 8583 ms 
+2015-01-14 12:17:52,705 [   7551]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/encodings.xml file is null 
+2015-01-14 12:17:52,799 [   7645]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/vcs.xml file is null 
+2015-01-14 12:17:53,017 [   7863]   INFO - CompilerWorkspaceConfiguration - Available processors: 8 
+2015-01-14 12:17:53,111 [   7957]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/vcs.xml file is null 
+2015-01-14 12:17:53,157 [   8003]   INFO - ellij.project.impl.ProjectImpl - 129 project components initialized in 655 ms 
+2015-01-14 12:17:54,444 [   9290]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 1287 ms 
+2015-01-14 12:17:54,471 [   9317]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/customization.xml file is null 
+2015-01-14 12:18:03,617 [  18463]   INFO - .roots.impl.DirectoryIndexImpl - Directory index initialized in 8086 ms, indexed 8990 directories 
+2015-01-14 12:18:03,689 [  18535]   INFO - pl.PushedFilePropertiesUpdater - File properties pushed in 69 ms 
+2015-01-14 12:18:23,779 [  38625]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/debugger.renderers.xml file is null 
+2015-01-14 12:18:23,886 [  38732]   INFO -    #org.jetbrains.io.WebServer - We have tried to bind to 127.0.0.1 host but have got exception (Windows 7 6.1), so, try to check - are we really need to bind to 127.0.0.1 
+2015-01-14 12:18:23,967 [  38813]   INFO -    #org.jetbrains.io.WebServer - port check: current OS must be marked as normal 
+2015-01-14 12:18:23,970 [  38816]   INFO - jetbrains.ide.WebServerManager - web server started, port 63342 
+2015-01-14 12:18:24,636 [  39482]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 32203 ms 
+2015-01-14 12:18:30,105 [  44951]   INFO - indexing.UnindexedFilesUpdater - Indexable files iterated in 6300 ms 
+2015-01-14 12:18:30,106 [  44952]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 110172 files to update 
+2015-01-14 12:18:37,846 [  52692]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/file.template.settings.xml file is null 
+2015-01-14 12:19:27,476 [ 102322]   INFO - duler$ExecutionTimeCheckedTask - 50 ms execution limit failed for:com.intellij.openapi.progress.impl.ProgressManagerImpl$1@6c8538f3,52 
+2015-01-14 12:19:58,495 [ 133341]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/code.style.schemes.xml file is null 
+2015-01-14 12:20:41,798 [ 176644]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update done in 131692 ms 
+2015-01-14 12:20:41,857 [ 176703]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/feature.usage.statistics.xml file is null 
+2015-01-14 12:22:30,669 [ 285515]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/fileColors.xml file is null 
+2015-01-14 12:23:07,796 [ 322642]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/studio_settings.xml file is null 
+2015-01-14 12:23:08,105 [ 322951]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/codeStyleSettings.xml file is null 
+2015-01-14 12:23:08,106 [ 322952]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/projectCodeStyle.xml file is null 
+2015-01-14 12:23:09,148 [ 323994]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/intentionSettings.xml file is null 
+2015-01-14 12:23:09,564 [ 324410]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/cachedDictionary.xml file is null 
+2015-01-14 12:23:28,933 [ 343779]   INFO - duler$ExecutionTimeCheckedTask - 50 ms execution limit failed for:com.intellij.openapi.editor.impl.EditorImpl$RepaintCursorCommand@774d3083,79 
+2015-01-14 16:38:01,444 [15616290]   INFO - duler$ExecutionTimeCheckedTask - 50 ms execution limit failed for:com.intellij.openapi.wm.impl.status.MemoryUsagePanel$2@1a99f496,56 
+2015-01-14 17:15:29,922 [17864768]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2015-01-18 17:47:49,990 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2015-01-18 17:47:50,006 [     16]   INFO -        #com.intellij.idea.Main - IDE: Guidewire Studio (build #Studio-8.0, 08 May 2014 00:00) 
+2015-01-18 17:47:50,006 [     16]   INFO -        #com.intellij.idea.Main - OS: Windows 7 (6.1) 
+2015-01-18 17:47:50,006 [     16]   INFO -        #com.intellij.idea.Main - JRE: 1.7.0_71-b14 (Oracle Corporation) 
+2015-01-18 17:47:50,006 [     16]   INFO -        #com.intellij.idea.Main - JVM: 24.71-b01 (Oracle Corporation) 
+2015-01-18 17:47:50,006 [     16]   INFO -        #com.intellij.idea.Main - JVM Args: -Xbootclasspath/a:../lib/boot.jar -XX:ReservedCodeCacheSize=64m -Dstudio.sdkroot=C:\Guidewire\ClaimCenter -Didea.plugins.compatible.build=IC-129.713 -Dfile.encoding=UTF-8 -Dide.tooltip.dismissDelay=60000 -ea -Didea.properties.file=C:/Guidewire/ClaimCenter/.idea/settings/idea.properties -Didea.platform.prefix=Studio -Xms2000m -Xmx4000m -XX:MaxPermSize=500m -Dant.file=C:\Guidewire\ClaimCenter\modules\ant\build.xml -Dant.project.invoked-targets=studio -Dant.file.type=file -Dant.file.Guidewire Ant environment initialization=C:\Guidewire\ClaimCenter\modules\ant\init.xml -Dant.file.Guidewire product configuration environment=C:\Guidewire\ClaimCenter\modules\ant\build.xml -Dant.project.default-target=help -Dant.file.type.Guidewire product configuration environment=file -Dant.file.type.Guidewire Ant environment initialization=file -Dant.project.name=Guidewire product configuration environment 
+2015-01-18 17:47:50,084 [     94]   INFO -        #com.intellij.idea.Main - JNA library loaded (64-bit) in 78 ms 
+2015-01-18 17:47:50,193 [    203]   INFO -        #com.intellij.idea.Main - Snappy library loaded (1.0.4) in 109 ms 
+2015-01-18 17:47:50,208 [    218]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2015-01-18 17:47:50,224 [    234]   INFO -        #com.intellij.idea.Main - Using "FocusKiller" library to prevent focus stealing. 
+2015-01-18 17:47:53,767 [   3777]   INFO - llij.ide.plugins.PluginManager - 37 plugins initialized in 3356 ms 
+2015-01-18 17:47:53,767 [   3777]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Ant Support (1.0), Copyright (8.1), GenerateToString (5.0), Git Integration (8.1), GitHub, IDEA CORE, Inspection Gadgets (1.0), Intention Power Pack (1.0), JUnit (1.0), JavaFX (1.0), Maven Integration, Properties Support, Subversion Integration (1.1) 
+2015-01-18 17:47:53,767 [   3777]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: GUnit (1.0-SNAPSHOT), Gosu (4.0-SNAPSHOT), Guidewire CC Studio (1.0), Guidewire Internal API Inspector (1.0.0), Guidewire Studio (1.0-SNAPSHOT), Guidewire Studio (Entity Codegen) (8.20.3) 
+2015-01-18 17:47:53,767 [   3777]   INFO - llij.ide.plugins.PluginManager - Disabled plugins: Android Designer, Android Support (10.0), Byte Code Viewer (0.1), CVS Integration (11), Commander (1.0.0), Eclipse Integration (3.0), Gradle, Groovy (9.0), I18n for Java, IntelliLang (8.0), Plugin DevKit (1.0), Task Management (1.0), TestNG-J (8.0), UI Designer, UI Designer (Core), XPathView + XSLT Support (4), XSLT-Debugger (1.4), hg4idea (10.0) 
+2015-01-18 17:47:59,120 [   9130]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=200; buffer=10; max=3707240448 
+2015-01-18 17:47:59,245 [   9255]   INFO - api.vfs.impl.local.FileWatcher - Starting file watcher: C:\Guidewire\ClaimCenter\idea\bin\fsnotifier.exe 
+2015-01-18 17:47:59,292 [   9302]   INFO - api.vfs.impl.local.FileWatcher - Native file watcher is operational. 
+2015-01-18 17:47:59,682 [   9692]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/ui.lnf.xml file is null 
+2015-01-18 17:47:59,729 [   9739]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/statistics.application.usages.xml file is null 
+2015-01-18 17:48:01,117 [  11127]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/macros.xml file is null 
+2015-01-18 17:48:01,117 [  11127]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/quicklists.xml file is null 
+2015-01-18 17:48:01,962 [  11972]   INFO - pl.stores.ApplicationStoreImpl - 75 application components initialized in 7493 ms 
+2015-01-18 17:48:01,962 [  11972]   INFO - .intellij.idea.IdeaApplication - App initialization took 13973 ms 
+2015-01-18 17:48:01,993 [  12003]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/customization.xml file is null 
+2015-01-18 17:48:03,756 [  13766]   INFO - CompilerWorkspaceConfiguration - Available processors: 8 
+2015-01-18 17:48:03,802 [  13812]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/plainTextFiles.xml file is null 
+2015-01-18 17:48:03,834 [  13844]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/vcs.xml file is null 
+2015-01-18 17:48:03,849 [  13859]   INFO - ellij.project.impl.ProjectImpl - 129 project components initialized in 1092 ms 
+2015-01-18 17:48:03,978 [  13988]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 129 ms 
+2015-01-18 17:48:05,018 [  15028]   INFO - .roots.impl.DirectoryIndexImpl - Directory index initialized in 603 ms, indexed 8990 directories 
+2015-01-18 17:48:05,033 [  15043]   INFO - pl.PushedFilePropertiesUpdater - File properties pushed in 15 ms 
+2015-01-18 17:48:15,052 [  25062]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/codeStyleSettings.xml file is null 
+2015-01-18 17:48:15,054 [  25064]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/projectCodeStyle.xml file is null 
+2015-01-18 17:48:15,126 [  25136]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/fileColors.xml file is null 
+2015-01-18 17:48:15,212 [  25222]   INFO -    #org.jetbrains.io.WebServer - We have tried to bind to 127.0.0.1 host but have got exception (Windows 7 6.1), so, try to check - are we really need to bind to 127.0.0.1 
+2015-01-18 17:48:15,290 [  25300]   INFO -    #org.jetbrains.io.WebServer - port check: current OS must be marked as normal 
+2015-01-18 17:48:15,290 [  25300]   INFO - jetbrains.ide.WebServerManager - web server started, port 63342 
+2015-01-18 17:48:16,163 [  26173]   INFO - indexing.UnindexedFilesUpdater - Indexable files iterated in 1594 ms 
+2015-01-18 17:48:16,163 [  26173]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 0 files to update 
+2015-01-18 17:48:16,164 [  26174]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update done in 1 ms 
+2015-01-18 17:48:17,151 [  27161]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 14398 ms 
+2015-01-18 17:48:18,204 [  28214]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/cachedDictionary.xml file is null 
+2015-01-19 00:17:25,438 [23375448]   INFO -    #org.jetbrains.io.WebServer - web server stopped 
+2015-01-19 00:17:25,463 [23375473]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2015-01-19 00:17:25,479 [23375489]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2015-01-19 00:17:25,479 [23375489]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2015-01-19 00:17:25,479 [23375489]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2015-01-19 00:17:25,480 [23375490]   INFO - .history.utils.LocalHistoryLog - Purging local history... 
+2015-01-19 00:17:25,481 [23375491]   INFO - .history.utils.LocalHistoryLog - Local history storage successfully closed. 
+2015-01-19 00:17:25,485 [23375495]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated. 
+2015-01-19 00:17:25,502 [23375512]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2015-01-19 00:17:25,517 [23375527]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2015-01-19 00:17:25,598 [23375608]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
